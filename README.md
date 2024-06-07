@@ -1,3 +1,9 @@
+
+
+https://github.com/tshubham75/Rails-ButterCMS-Integration/assets/142473715/627b9105-17c7-4efc-ad82-f30ed063f0d5
+
+
+
 # Ruby on Rails + ButterCMS Starter Project
 
 This Rails starter project fully integrates with dynamic sample content from your ButterCMS account, including main menu, pages, blog posts, categories, and tags, all with a beautiful, custom theme with already-implemented search functionality. All of the included sample content is automatically created in your account dashboard when you sign up for a free trial of ButterCMS.
